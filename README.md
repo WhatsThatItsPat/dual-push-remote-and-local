@@ -5,3 +5,10 @@
 [How to use Git and Dropbox together?](https://stackoverflow.com/a/1961515)
 
 [Git - Pushing code to two remotes](https://stackoverflow.com/a/14290145)
+
+---
+
+I don't think the `git remote add all...` stuff is necessary.
+
+[Working with Git remotes and pushing to multiple Git repositories](https://jigarius.com/blog/multiple-git-remote-repositories)
+
